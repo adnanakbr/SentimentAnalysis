@@ -1,3 +1,5 @@
+__author__ = 'adnan'
+
 #This program is based on twitter Rest api. It takes two inputs, 1)name of the user 2)hashtags with which filter is applied.
 #It extracts historical tweets from user timeline (up to 16*200) and pre-proces it and filter the tweets with the i/p hashtag.
 #It applies sentiment analysis and outputs the user review about it. consider following example;

@@ -1,10 +1,6 @@
+__author__ = 'adnan'
+
 # To run this code, first edit config.py with your configuration, then:
-#
-# mkdir data
-# python twitter_stream_download.py -q apple -d data
-# 
-# It will produce the list of tweets for the query "apple" 
-# in the file data/stream_apple.json
 
 import sys
 import string

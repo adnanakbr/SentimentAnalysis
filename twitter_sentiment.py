@@ -1,3 +1,5 @@
+__author__ = 'adnan'
+
 import re
 import tweepy
 import os
